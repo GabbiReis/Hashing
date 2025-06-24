@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\Hashing\Hashing\bin\Debug\net8.0\Hashing.exe
+C:\Users\gabri\source\repos\Hashing\Hashing\bin\Debug\net8.0\Hashing.deps.json
+C:\Users\gabri\source\repos\Hashing\Hashing\bin\Debug\net8.0\Hashing.runtimeconfig.json
+C:\Users\gabri\source\repos\Hashing\Hashing\bin\Debug\net8.0\Hashing.dll
+C:\Users\gabri\source\repos\Hashing\Hashing\bin\Debug\net8.0\Hashing.pdb
+C:\Users\gabri\source\repos\Hashing\Hashing\obj\Debug\net8.0\Hashing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Hashing\Hashing\obj\Debug\net8.0\Hashing.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Hashing\Hashing\obj\Debug\net8.0\Hashing.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Hashing\Hashing\obj\Debug\net8.0\Hashing.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Hashing\Hashing\obj\Debug\net8.0\Hashing.dll
+C:\Users\gabri\source\repos\Hashing\Hashing\obj\Debug\net8.0\refint\Hashing.dll
+C:\Users\gabri\source\repos\Hashing\Hashing\obj\Debug\net8.0\Hashing.pdb
+C:\Users\gabri\source\repos\Hashing\Hashing\obj\Debug\net8.0\Hashing.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Hashing\Hashing\obj\Debug\net8.0\ref\Hashing.dll
